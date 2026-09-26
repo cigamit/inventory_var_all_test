@@ -6,3 +6,7 @@ bar.example.com
 one.example.com
 two.example.com
 three.example.com
+
+[atlanta]
+host1 http_port=80 maxRequestsPerChild=808
+host2 http_port=303 maxRequestsPerChild=909
