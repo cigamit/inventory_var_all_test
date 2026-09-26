@@ -1,0 +1,1 @@
+# inventory_var_all_test
